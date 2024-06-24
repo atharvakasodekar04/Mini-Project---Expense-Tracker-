@@ -16,8 +16,6 @@ An Expense Tracker application that allows users to add, view, and manage their 
 - View the summary of all expenses in a table format.
 - Simple and user-friendly interface.
 
-## Installation
 
-To get a local copy up and running, follow these simple steps:
 
 
