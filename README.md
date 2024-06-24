@@ -5,7 +5,7 @@ An Expense Tracker application that allows users to add, view, and manage their 
 ## Table of Contents
 
 - [Features](#features)
-- [Expense Tracker Screenshot](https://github.com/atharvakasodekar04/Mini-Project---Expense-Tracker-/blob/master/expenseTracker).png)
+- [Expense Tracker Screenshot](https://github.com/atharvakasodekar04/Mini-Project---Expense-Tracker-/blob/master/expenseTracker.png)
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
